@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 # Load API Key
 load_dotenv()
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 
 client = OpenAI(
     api_key=GROQ_API_KEY,
